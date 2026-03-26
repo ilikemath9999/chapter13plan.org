@@ -1,7 +1,6 @@
-{
-  "name": "The Chapter 13 Repayment Plan -- How It Works",
+{"name": "Chapter 13 Repayment Plan",
   "short_name": "chapter13plan.org",
-  "description": "Free guide to Chapter 13 bankruptcy repayment plans. Learn what goes in a plan, how payments are calculated, plan length, confirmation requirements, and what happens if you can't keep up.",
+  "description": "Understanding plan mechanics under 11 U.S.C. Sections 1322 and 1325",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
